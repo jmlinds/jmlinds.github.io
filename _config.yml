@@ -28,7 +28,7 @@ comments :
 nav:
   #- About me: "/about/about"
   - ABOUT: "https://jmlinds.github.io/about/"
-  - PHOTOS FROM THE FIELD: "https://jmlinds.github.io/photos/"
+  - PHOTOS FROM THE FIELD: "https://jmlinds.github.io/gallery/"
   - CV: "https://jmlinds.github.io/CV/JessicaLindsayCV_11.20.pdf"
 # All translation keys
 translations:
