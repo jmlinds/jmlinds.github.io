@@ -26,10 +26,10 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://jmlinds.github.io/gallery/"  
+  - GALLERY: "https://jmlinds.github.io/gallery/"
   #- JOURNAL: "https://sunbliss.github.io/photorama/journal/"
   - ABOUT: "https://jmlinds.github.io/about/"
-  - CV: "https://jmlinds.github.io/photorama/CV/"
+  - CV: "https://jmlinds.github.io/CV/JessicaLindsayCV_11.20_abbrev.pdf"
 # All translation keys
 translations:
  # 404.html
@@ -49,7 +49,7 @@ paginate_path: "/journal/page:num/"
 permalink: "/journal/:title/"
 categories_path: "/journal/category/"
 tags_path: "/journal/tag/"
-gems: 
+gems:
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
