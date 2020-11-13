@@ -1,23 +1,16 @@
 # Site settings
-title: PHOTORAMA
+title: Jessica M. Lindsay (site under construction)
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+description: "Graduate student at University of Washington"
+url: "https://jmlinds.github.io"
+baseurl: "/jmlinds.github.io"
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Jessica Lindsay
   avatar: avatar.png
-  favicon: favicon.ico
+  #favicon: favicon.ico
   info: photography website template
 
 # Settings for comments helper
@@ -27,16 +20,16 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : false
   disqus :
     short_name : ""
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
-
+  - GALLERY: "https://jmlinds.github.io/gallery/"  
+  #- JOURNAL: "https://sunbliss.github.io/photorama/journal/"
+  - ABOUT: "https://jmlinds.github.io/about/"
+  - CV: "https://jmlinds.github.io/photorama/CV/"
 # All translation keys
 translations:
  # 404.html
