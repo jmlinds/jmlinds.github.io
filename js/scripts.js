@@ -12,11 +12,11 @@
 				$fullscreen_gallery.before('<ul id="gallerythumbs">').cycle({
 					slideExpr: '.gallery-item',
 					fx:        'fade',
-		   			speed:     1,
+		   			speed:     1000,
 					timeout:   5000,
 					pager:   	 '#gallerythumbs',
-					slideResize: false,
-					containerResize: false,
+					slideResize: true,
+					containerResize: true,
 					width: '100%',
 					height: '100%',
 					fit: 1,
@@ -94,10 +94,10 @@
 		jQuery('#kenburns').attr('height', jQuery(window).height());
 		jQuery('#kenburns').kenburns({
 			images: gallery_set,
-			frames_per_second: 30,
-			display_time: 5000,
+			frames_per_second: 0.1,
+			display_time: 10000,
 			fade_time: 1000,
-			zoom: 1.2,
+			zoom: 1,
 			background_color:'#F7F6F5'
 		});
 	}
