@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Jessica Lindsay (site under construction)"
-description: "Graduate student at the University of Washington School of Aquatic and Fishery Sciences"
+main-title: "Jessica Lindsay (site under construction)"
+subtitle: "Graduate student at the University of Washington School of Aquatic and Fishery Sciences"
 active: gallery
 header-img: "img/DSC_8204_1.jpg"
 ---
@@ -9,65 +9,40 @@ header-img: "img/DSC_8204_1.jpg"
 <html class="no-js" lang="en">
 <head>
 	<meta content="charset=utf-8">
-    <link rel="stylesheet" href="{{ "/css/selena.css" | prepend: site.baseurl }}">
+
+<!-- CSS -->
+     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" type="text/css" media="screen" />
+      <link rel="stylesheet" href="{{ site.baseurl }}/css/galleries.css" media="screen" />
+<link rel="stylesheet" href="{{ site.baseurl }}/css/WYSIWYG.css" media="screen" />
+
+
+
+	<!-- Modernizr -->
+  <script src="{{ site.baseurl }}/js/modernizr.js"></script>
+
+
+
+
+
 </head>
 
+<body class="fullscreen">
 
-    <body class="gallery">
-
+<!-- MAIN CONTENT SECTION  _____________________________________________-->
 	<section id="content" role="main">
 		<div class="wrapper">
 
-			<h2>{{}}</h2>
+			<!-- WYSIWYG -->
 
-			<!-- Gallery __-->
-			<div class="gallery masonry-gallery">
-
-{% for image in page.images %}
-
-	               <figure class="gallery-item">
-                         <figure class="effect-selena">
-					<header class='gallery-icon'>
-
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
-
-					</header>
-					<figcaption class='gallery-caption'>
-						<div class="entry-summary">
-							<h3>{{image.gallery-name}}</h3>
-							<p>{{image.gallery-date}}</p>
-						</div>
-					</figcaption>
-                       </figure>
-				</figure>
-
-{% endfor %}
-
+		<div class="position-absolute">
+				<h2 class="big no-margin"><strong>{{ page.main-title }}</strong></h2>
+				<h2>{{ page.subtitle }}</h2>
+                     <div class="entry-summary">
+							<p>{{ page.description }}</p>
+						</div><br />
 			</div>
 
-		</div><!-- END .wrapper -->
-	</section>
 
-
-<br>
-<h6><p>Image Source: <a href="https://unsplash.com/photos/YOT6kS8YtEA/">Unsplash</a></p></h6>
-
-<!-- jQuery -->
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/js/retina.min.js"></script>
-<!-- include Masonry -->
-<script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script>
-<!-- include mousewheel plugins -->
-<script src="{{ site.baseurl }}/js/jquery.mousewheel.min.js"></script>
-<!-- include carousel plugins -->
-<script src="{{ site.baseurl}}/js/jquery.tinycarousel.min.js"></script>
-<!-- include svg line drawing plugin -->
-<script src="{{ site.baseurl }}/js/jquery.lazylinepainter.min.js"></script>
-<!-- include custom script -->
-<script src="{{ site.baseurl }}/js/scripts.js"></script>
-<!-- Modernizr -->
- <script src="{{ site.baseurl }}/js/modernizr.js"></script>
 
 </body></html>
