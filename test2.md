@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Test 2
+header-img: "img/DSC_8204_1.jpg"
 ---
 
-![Photo of Jessie]("IMG_1930_2_resized.jpg")
+![Photo of Jessie](https://raw.githubusercontent.com/jmlinds/jmlinds.github.io/gh-pages/IMG_1930_2_resized.png)
 
 I am a graduate student at University of Washington's School of Aquatic and
 Fishery Sciences (SAFS), advised by Dr. Kristin Laidre. <!-- would be cool to link to her page -->
@@ -16,7 +17,7 @@ For my undergraduate research, I used playback experiments to study the acoustic
 calls in walnut sphinx caterpillars. Outside of my research, I love spending time with my cat,
 painting wildlife, drinking lots of tea, and reading sci-fi/fantasy.
 
-#Funders
+# Funders
 My research has been supported by a SAFS fellowship, Achievement Rewards for College Scientists,
 the Gordon and Betty Moore Foundation, the North Pacific Research Board Graduate Student
 Research Award, and a National Science Foundation Graduate Research Fellowship.
