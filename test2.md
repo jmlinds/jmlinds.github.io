@@ -5,7 +5,7 @@ header-img: "img/DSC_8204_1.jpg"
 ---
 
 <!--![Photo of Jessie](https://raw.githubusercontent.com/jmlinds/jmlinds.github.io/gh-pages/IMG_1930_2_resized.jpg) -->
-<div style="text-align:center">
+<div text-align:center>
 <img src="https://raw.githubusercontent.com/jmlinds/jmlinds.github.io/gh-pages/IMG_1930_2_resized.jpg" align="middle" width="600" />
 </div>
 
