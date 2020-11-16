@@ -4,7 +4,7 @@ title: Test 2
 header-img: "img/DSC_8204_1.jpg"
 ---
 
-![Photo of Jessie](https://raw.githubusercontent.com/jmlinds/jmlinds.github.io/gh-pages/IMG_1930_2_resized.png)
+![Photo of Jessie](https://raw.githubusercontent.com/jmlinds/jmlinds.github.io/gh-pages/IMG_1930_2_resized.jpg)
 
 I am a graduate student at University of Washington's School of Aquatic and
 Fishery Sciences (SAFS), advised by Dr. Kristin Laidre. <!-- would be cool to link to her page -->
