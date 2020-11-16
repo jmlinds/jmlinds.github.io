@@ -5,9 +5,9 @@ header-img: "img/DSC_8204_1.jpg"
 ---
 
 <!--![Photo of Jessie](https://raw.githubusercontent.com/jmlinds/jmlinds.github.io/gh-pages/IMG_1930_2_resized.jpg) -->
-<div text-align:center>
+<p style="text-align:center;">
 <img src="https://raw.githubusercontent.com/jmlinds/jmlinds.github.io/gh-pages/IMG_1930_2_resized.jpg" align="middle" width="600" />
-</div>
+</p>
 
 I am a graduate student at University of Washington's School of Aquatic and
 Fishery Sciences (SAFS), advised by Dr. Kristin Laidre. <!-- would be cool to link to her page -->
