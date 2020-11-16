@@ -27,7 +27,7 @@ comments :
 
 # Internal nav
 nav:
-  #- TEST2: "https://jmlinds.github.io/test2/"
+  - TEST2: "https://jmlinds.github.io/test2/"
   - ABOUT: "https://jmlinds.github.io/about/"
   - PHOTOS FROM THE FIELD: "https://jmlinds.github.io/gallery/"
   - CV: "https://jmlinds.github.io/CV/JessicaLindsayCV_11.20.pdf"
