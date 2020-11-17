@@ -3,7 +3,7 @@ layout: page
 title: "Research"
 description: ""
 active: research
-header-img: "DSC_82041_1.jpg"
+header-img: "img/DSC_8204_1.jpg"
 ---
 
 
