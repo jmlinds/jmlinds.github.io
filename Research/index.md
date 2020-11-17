@@ -28,7 +28,9 @@ Films. To watch Sarah's 10-minute short film about Ikaa&#289;vik Sikukun's seal 
 <!---
 [![Seal Research](https://www.youtube.com/watch?v=fQd2xRds9po&t/mqdefault.jpg)](https://www.youtube.com/watch?v=fQd2xRds9po&t) --->
 <!-- <a href="https://www.youtube.com/watch?v=fQd2xRds9po&t"><img src="https://www.youtube.com/watch?v=fQd2xRds9po&t/mqdefault.jpg" alt="Seal Research"></a> -->
-[![https://www.youtube.com/watch?v=fQd2xRds9po&t/mqdefault.jpg](http://img.youtube.com/vi/fQd2xRds9po/0.jpg)](http://www.youtube.com/watch?v=fQd2xRds9po "Seal Research")
+<!--[![https://www.youtube.com/watch?v=fQd2xRds9po&t/mqdefault.jpg](http://img.youtube.com/vi/fQd2xRds9po/0.jpg)](http://www.youtube.com/watch?v=fQd2xRds9po "Seal Research") -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fQd2xRds9po" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 My graduate research has been supported by a SAFS fellowship, Achievement Rewards for College Scientists, a North Pacific Research Board Graduate Student
 Research Award, and a National Science Foundation Graduate Research Fellowship.
