@@ -29,6 +29,7 @@ comments :
 nav:
   #- TEST2: "https://jmlinds.github.io/test2/"
   - ABOUT: "https://jmlinds.github.io/about/"
+  - RESEARCH: "https://jmlinds.github.io/research/"
   - PHOTOS FROM THE FIELD: "https://jmlinds.github.io/gallery/"
   - CV: "https://jmlinds.github.io/CV/JessicaLindsayCV_11.20.pdf"
 # All translation keys
