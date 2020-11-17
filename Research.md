@@ -27,14 +27,9 @@ a key component throughout the project. The ringed seal piece of this project us
 Films. To watch Sarah's 10-minute short film about Ikaa&#289;vik Sikukun's seal research (for both *natchiq* and *ugruk*, Inupiaq for bearded seals) click the link below.
 
 <!---
-[![Seal Research](https://www.youtube.com/watch?v=fQd2xRds9po&t/mqdefault.jpg)](https://www.youtube.com/watch?v=fQd2xRds9po&t)
---->
+[![Seal Research](https://www.youtube.com/watch?v=fQd2xRds9po&t/mqdefault.jpg)](https://www.youtube.com/watch?v=fQd2xRds9po&t) --->
 
 <a href="https://www.youtube.com/watch?v=fQd2xRds9po&t"><img src="https://www.youtube.com/watch?v=fQd2xRds9po&t/mqdefault.jpg" alt="Seal Research"></a>
-
-<a href="default.asp">
-  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
-</a>
 
 My graduate research has been supported by a SAFS fellowship, Achievement Rewards for College Scientists, a North Pacific Research Board Graduate Student
 Research Award, and a National Science Foundation Graduate Research Fellowship.
