@@ -34,3 +34,16 @@ Films. To watch Sarah's 10-minute short film about Ikaa&#289;vik Sikukun's seal 
 
 My graduate research has been supported by a SAFS fellowship, Achievement Rewards for College Scientists, a North Pacific Research Board Graduate Student
 Research Award, and a National Science Foundation Graduate Research Fellowship.
+
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3GRKGMG9YY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3GRKGMG9YY');
+</script>
+
+</head>
